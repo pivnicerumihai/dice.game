@@ -1,0 +1,27 @@
+body{
+    background-color: #302726;
+    font-family: 'Gochi Hand', cursive;
+}
+h1{
+    font-size: 5em;
+    color:aqua;
+    text-align: center;
+}
+#players{
+    font-size:3em;
+
+    position: relative;
+    text-align:center;
+}
+#players h4{
+    color:aqua;
+    padding:0 10%;
+    display: inline;
+}
+img{
+    padding:0 7%;
+}
+.play{
+    margin-top:2%; 
+    text-align: center;
+}
